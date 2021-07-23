@@ -4,4 +4,4 @@
 #	Used ListView and ArrayAdapter classes to display scrollable lists of various words and images
 # added some visual polish to make the app look better
 
-RecyclableView is used to make the app memoory efficient
+RecyclableView is used to make the app memory efficient
